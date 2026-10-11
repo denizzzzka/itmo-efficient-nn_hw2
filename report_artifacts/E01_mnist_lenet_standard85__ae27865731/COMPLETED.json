@@ -1,0 +1,9 @@
+{
+  "name": "E01_mnist_lenet_standard85",
+  "run_id": "E01_mnist_lenet_standard85__ae27865731",
+  "best_test_acc": 99.33,
+  "final_test_acc": 99.22999999999999,
+  "steps": 39865,
+  "elapsed_s": 1264.2953976620001,
+  "run_dir": "/content/drive/MyDrive/itmo_hw2_superconvergence/runs/E01_mnist_lenet_standard85__ae27865731"
+}

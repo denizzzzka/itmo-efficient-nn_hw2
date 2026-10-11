@@ -1,0 +1,9 @@
+{
+  "name": "E02_mnist_lenet_1cycle12",
+  "run_id": "E02_mnist_lenet_1cycle12__31b14bf0ef",
+  "best_test_acc": 99.41,
+  "final_test_acc": 99.39,
+  "steps": 5628,
+  "elapsed_s": 194.142944306,
+  "run_dir": "/content/drive/MyDrive/itmo_hw2_superconvergence/runs/E02_mnist_lenet_1cycle12__31b14bf0ef"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "E01_mnist_lenet_standard85",
+  "last_epoch": 85,
+  "steps": 39865,
+  "best_test_acc": 99.33,
+  "last_test_acc": 99.22999999999999,
+  "elapsed_s": 1264.2953976620001
+}

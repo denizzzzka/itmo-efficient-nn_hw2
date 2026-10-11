@@ -1,0 +1,3 @@
+model,standard_acc,onecycle_acc,delta_pp
+ResNet-20,71.12,74.66000000000001,3.5400000000000063
+ResNet-56,44.17,72.0,27.83

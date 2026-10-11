@@ -1,0 +1,8 @@
+{
+  "name": "E02_mnist_lenet_1cycle12",
+  "last_epoch": 12,
+  "steps": 5628,
+  "best_test_acc": 99.41,
+  "last_test_acc": 99.39,
+  "elapsed_s": 194.142944306
+}

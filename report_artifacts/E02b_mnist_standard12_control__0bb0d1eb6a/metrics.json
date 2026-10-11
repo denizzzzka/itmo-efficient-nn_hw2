@@ -1,0 +1,8 @@
+{
+  "name": "E02b_mnist_standard12_control",
+  "last_epoch": 12,
+  "steps": 5628,
+  "best_test_acc": 99.24,
+  "last_test_acc": 99.22999999999999,
+  "elapsed_s": 187.695551894
+}

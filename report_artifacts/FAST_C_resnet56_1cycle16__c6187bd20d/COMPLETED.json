@@ -1,0 +1,9 @@
+{
+  "name": "FAST_C_resnet56_1cycle16",
+  "run_id": "FAST_C_resnet56_1cycle16__c6187bd20d",
+  "best_test_acc": 72.0,
+  "final_test_acc": 72.0,
+  "steps": 1264,
+  "elapsed_s": 184.27685162499984,
+  "run_dir": "/content/drive/MyDrive/itmo_hw2_superconvergence/runs/FAST_C_resnet56_1cycle16__c6187bd20d"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "FAST_B_subset10k_1cycle16",
+  "dataset": "cifar10",
+  "model": "resnet20",
+  "policy": "onecycle",
+  "epochs": 16,
+  "batch_size": 128,
+  "seed": 42,
+  "subset_size": 10000,
+  "high_lr": 0.15,
+  "low_lr": 0.01,
+  "final_lr": 0.0001,
+  "momentum": 0.9,
+  "cycle_momentum": false,
+  "momentum_high": 0.95,
+  "momentum_low": 0.85,
+  "weight_decay": 0.0001,
+  "bn_momentum": 0.05,
+  "augmentation": true,
+  "tail_frac": 0.05,
+  "eval_every": 1,
+  "checkpoint_every": 1,
+  "workers": 2,
+  "max_steps": null,
+  "amp": false,
+  "milestones": [
+    0.625,
+    0.875
+  ]
+}

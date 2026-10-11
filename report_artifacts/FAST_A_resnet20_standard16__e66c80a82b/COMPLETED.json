@@ -1,0 +1,9 @@
+{
+  "name": "FAST_A_resnet20_standard16",
+  "run_id": "FAST_A_resnet20_standard16__e66c80a82b",
+  "best_test_acc": 86.9,
+  "final_test_acc": 86.77,
+  "steps": 6256,
+  "elapsed_s": 432.915146026,
+  "run_dir": "/content/drive/MyDrive/itmo_hw2_superconvergence/runs/FAST_A_resnet20_standard16__e66c80a82b"
+}

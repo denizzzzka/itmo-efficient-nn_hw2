@@ -1,0 +1,8 @@
+{
+  "name": "FAST_A_resnet20_standard16",
+  "last_epoch": 16,
+  "steps": 6256,
+  "best_test_acc": 86.9,
+  "last_test_acc": 86.77,
+  "elapsed_s": 432.915146026
+}

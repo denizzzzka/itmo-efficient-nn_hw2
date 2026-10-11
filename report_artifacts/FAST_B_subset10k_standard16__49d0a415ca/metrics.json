@@ -1,0 +1,8 @@
+{
+  "name": "FAST_B_subset10k_standard16",
+  "last_epoch": 16,
+  "steps": 1264,
+  "best_test_acc": 71.12,
+  "last_test_acc": 71.12,
+  "elapsed_s": 118.93601098199997
+}

@@ -1,0 +1,9 @@
+{
+  "name": "E02b_mnist_standard12_control",
+  "run_id": "E02b_mnist_standard12_control__0bb0d1eb6a",
+  "best_test_acc": 99.24,
+  "final_test_acc": 99.22999999999999,
+  "steps": 5628,
+  "elapsed_s": 187.695551894,
+  "run_dir": "/content/drive/MyDrive/itmo_hw2_superconvergence/runs/E02b_mnist_standard12_control__0bb0d1eb6a"
+}

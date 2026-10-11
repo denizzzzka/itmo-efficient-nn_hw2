@@ -1,0 +1,9 @@
+{
+  "name": "FAST_C_resnet56_standard16",
+  "run_id": "FAST_C_resnet56_standard16__8b3fc94210",
+  "best_test_acc": 44.17,
+  "final_test_acc": 44.17,
+  "steps": 1264,
+  "elapsed_s": 190.64341362400046,
+  "run_dir": "/content/drive/MyDrive/itmo_hw2_superconvergence/runs/FAST_C_resnet56_standard16__8b3fc94210"
+}

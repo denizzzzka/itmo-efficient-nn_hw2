@@ -1,0 +1,30 @@
+{
+  "name": "E02b_mnist_standard12_control",
+  "dataset": "mnist",
+  "model": "lenet",
+  "policy": "inverse",
+  "epochs": 12,
+  "batch_size": 128,
+  "seed": 42,
+  "subset_size": null,
+  "high_lr": 0.01,
+  "low_lr": 0.01,
+  "final_lr": 1e-05,
+  "momentum": 0.9,
+  "cycle_momentum": false,
+  "momentum_high": 0.95,
+  "momentum_low": 0.85,
+  "weight_decay": 0.0005,
+  "bn_momentum": 0.05,
+  "augmentation": false,
+  "tail_frac": 0.05,
+  "eval_every": 1,
+  "checkpoint_every": 1,
+  "workers": 2,
+  "max_steps": null,
+  "amp": false,
+  "milestones": [
+    0.625,
+    0.875
+  ]
+}

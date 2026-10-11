@@ -1,0 +1,8 @@
+{
+  "name": "FAST_C_resnet56_1cycle16",
+  "last_epoch": 16,
+  "steps": 1264,
+  "best_test_acc": 72.0,
+  "last_test_acc": 72.0,
+  "elapsed_s": 184.27685162499984
+}

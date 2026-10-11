@@ -1,0 +1,9 @@
+{
+  "name": "FAST_B_subset10k_standard16",
+  "run_id": "FAST_B_subset10k_standard16__49d0a415ca",
+  "best_test_acc": 71.12,
+  "final_test_acc": 71.12,
+  "steps": 1264,
+  "elapsed_s": 118.93601098199997,
+  "run_dir": "/content/drive/MyDrive/itmo_hw2_superconvergence/runs/FAST_B_subset10k_standard16__49d0a415ca"
+}

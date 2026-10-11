@@ -1,0 +1,9 @@
+{
+  "name": "FAST_D_subset10k_1cycle_wd1e3",
+  "run_id": "FAST_D_subset10k_1cycle_wd1e3__63ee35beda",
+  "best_test_acc": 76.87,
+  "final_test_acc": 76.87,
+  "steps": 1264,
+  "elapsed_s": 120.68366732699997,
+  "run_dir": "/content/drive/MyDrive/itmo_hw2_superconvergence/runs/FAST_D_subset10k_1cycle_wd1e3__63ee35beda"
+}

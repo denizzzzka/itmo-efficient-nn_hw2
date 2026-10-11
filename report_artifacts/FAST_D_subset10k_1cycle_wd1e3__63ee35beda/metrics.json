@@ -1,0 +1,8 @@
+{
+  "name": "FAST_D_subset10k_1cycle_wd1e3",
+  "last_epoch": 16,
+  "steps": 1264,
+  "best_test_acc": 76.87,
+  "last_test_acc": 76.87,
+  "elapsed_s": 120.68366732699997
+}
